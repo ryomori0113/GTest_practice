@@ -1,1 +1,0 @@
-# GTest_practice
